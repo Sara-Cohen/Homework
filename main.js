@@ -183,7 +183,7 @@ const Product=()=>{
   </section>
 </body>
 
-ReactDOM.render(<App />, document.getElementById("app"))
+ReactDOM.render(<Product />, document.getElementById("app"))
   
 
 
